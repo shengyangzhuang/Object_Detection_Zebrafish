@@ -1,0 +1,1 @@
+先去d盘找到experiment文件夹，打开，然后在上方的此电脑输入cmd，在打开的cmd里输入jupyter notebook，就会在浏览器打开对应的文件。
